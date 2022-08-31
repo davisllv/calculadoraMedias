@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Exercicio3</string>
+    <string name="textViewGrauA">Nota Grau A</string>
+    <string name="textViewGrauB">Nota Grau B</string>
+    <string name="textViewGrauC">Nota Grau C</string>
+    <string name="hintGrauA">Digite a nota de Grau A</string>
+    <string name="hintGrauB">Digite a nota de Grau B</string>
+    <string name="hintGrauC">Digite a nota de Grau C</string>
+    <string name="resultValue">Digite o valor de todas as notas!</string>
+    <string name="calcularButton">CALCULAR</string>
+    <string name="limparButton">LIMPAR</string>
+</resources>
